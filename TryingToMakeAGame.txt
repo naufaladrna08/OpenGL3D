@@ -1,0 +1,1 @@
+./Debug/MeshRenderer.cpp.o ./Debug/Camera.cpp.o ./Debug/Main.cpp.o ./Debug/LightRenderer.cpp.o ./Debug/Shader.cpp.o ./Debug/glad.c.o ./Debug/TextureLoader.cpp.o ./Debug/Mesh.cpp.o
